@@ -1,0 +1,6 @@
+name: 'Tailwind Components'
+description: Provides various Tailwind components as SDCs compatible with UI Pattern Library.
+type: module
+core_version_requirement: ^9 || ^10 || ^11
+dependencies:
+  - ui_patterns:ui_patterns_library
